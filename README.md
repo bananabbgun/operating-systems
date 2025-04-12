@@ -1,4 +1,5 @@
 # operating-systems
 projects done in operating systems in 2025  
 mp1:implement a user-level thread package within the xv6 operating system.  
-mp2:memory allocation and deallocation mechanisms for small kernel objects and to design and implement a slab allocator within the xv6 operating system.
+mp2:memory allocation and deallocation mechanisms for small kernel objects and to design and implement a slab allocator within the xv6 operating system.  
+[assignment description](./mp2/doc/mp2-spec.pdf)
